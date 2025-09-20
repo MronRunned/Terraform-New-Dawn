@@ -13,8 +13,6 @@
 
 <p align="center">
   <em>In the silent echoes of a dead world, one pioneer's courage will awaken a new dawn.</em>
-  <em>So the true player will reborn all the world.</em>
-  <em>Let your true story begin.</em>
 </p>
 
 ---
