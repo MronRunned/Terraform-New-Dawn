@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x400/1a365d/ffffff?text=🌌+Terraform:+New+Dawn+🌅" alt="Terraform: New Dawn Banner" style="border-radius: 20px;"/>
+  <img src="https://github.com/MronRunned/Terraform-New-Dawn/raw/a6ca68dca2b114d46ffcba7514d8cc02ec8a5bb9/banner.webp" alt="Terraform: New Dawn Banner" width="1000" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">🌱 Terraform: New Dawn</h1>
@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Version-0.1.0%20Alpha-ff6b35?style=for-the-badge&logo=starship&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-2.5.0-8CC84B?style=for-the-badge&logo=sfml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
 <p align="center">
