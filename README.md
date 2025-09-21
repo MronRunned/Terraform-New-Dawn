@@ -62,6 +62,8 @@ Dawn::await();
   <img src="https://img.shields.io/github/issues/MronRunned/Terraform-New-Dawn?style=flat-square" alt="Issues"/>
 </p>
 
+## Estimated release date: September 28!
+
 ## 📊 Development Progress Map
 
 ### 🎯 Current Development Status
