@@ -150,9 +150,9 @@ The work is in the progress.
 ### 🎯 Completion Rates
 | System | Yesterday | Today | Change |
 |:---|:---:|:---:|:---:|
-| **Core** | 8% | 10% | ↗️ +2% |
-| **Gameplay** | 5% | 20% | ↗️ +15% |
-| **Graphics** | 28% | 30% | ↗️ +2% |
+| **Core** | 10% | 10% | ↗️ +0% |
+| **Gameplay** | 20% | 25% | ↗️ +5% |
+| **Graphics** | 30% | 30% | ↗️ +0% |
 | **Audio** | 0% | 0% | ↗️ +0% |
 
 **Weekly Velocity:** ↗️ **+13% overall**
