@@ -145,7 +145,7 @@ graph TD
 The work is in the progress.
 
 **Lines of Code:** `723-750` on every file. 📈
-**Summary lines of code:** `4129` 🆗
+**Summary lines of code:** `13523` 🆗
 **Commit Count:** `0` 🔄  
 **Active Branches:** `0` 🌿
 **Issue Resolution:** `0%` ✅
